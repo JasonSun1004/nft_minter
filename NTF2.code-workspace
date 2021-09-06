@@ -1,0 +1,17 @@
+{
+	"folders": [
+		{
+			"path": "."
+		},
+		{
+			"path": "../example_nft_minter"
+		},
+		{
+			"path": "../frontend_base_dapp"
+		},
+		{
+			"path": "../nft_ipfs_minter"
+		}
+	],
+	"settings": {}
+}
