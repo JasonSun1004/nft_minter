@@ -143,9 +143,9 @@
  // the id would be the name of the folder in your input directory, e.g. 'ball' for ./input/ball
  const layers = [
    addLayer('Background'),
-   addLayer('Body'),
-   addLayer('Head'),
    addLayer('Throne'),
+   addLayer('Head'),
+   addLayer('Body'),
    addLayer('Accessories')
  ];
  
